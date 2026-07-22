@@ -1,0 +1,8 @@
+folium
+geopy
+googlemaps
+openpyxl
+osmnx
+pandas
+streamlit
+streamlit_folium
