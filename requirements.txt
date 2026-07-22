@@ -1,9 +1,0 @@
-streamlit
-pandas
-openpyxl
-osmnx
-folium
-geopy
-numpy # osmnx and pandas often pull this, but good to be explicit
-networkx # osmnx dependency
-shapely # osmnx dependency
